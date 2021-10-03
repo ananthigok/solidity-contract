@@ -5,7 +5,7 @@ This assignment is creating ProfitSplitter contracts which would perform the bel
     This will accept ether into the contract, and divide it evenly among associate-level employees. This will allow the human resources department to pay employees quickly and efficiently.
 
 Procedure involved is explained below 
- - From the Remix IDE and created a new contract called AssociateProfitSplitter.sol
+ - From the Remix IDE and created a new contract called AssociateProfitSplitter-test.sol
  - the Ganache development chain was utilised
  - MetaMask was pointed to localhost:8545
 
@@ -17,3 +17,18 @@ Procedure involved is explained below
 Then filled in the constructor parameters with the designated employee addresses.
 
 <kbd>![Command](Screenshots/deploy.png)
+<kbd>![Command](Screenshots/deployed.png)
+
+Metamask with localhost - with transaction
+<kbd>![Command](Screenshots/metamask.png)
+
+The transaction details were found in the Ganache app as well.
+<kbd>![Command](Screenshots/ganache-transaction.png)
+<kbd>![Command](Screenshots/ganache-accounts.png)
+
+## Deploy the contracts to a live Testnet
+MetaMask was pointed to the Kovan network and then the contract was deloyed again and did the transaction from Deposit method.
+<kbd>![Command](Screenshots/metamask-kovan.png)
+
+This transaction details were verified online in [kovan etherscan](https://kovan.etherscan.io/) website
+<kbd>![Command](Screenshots/live-kovan-test-transaction.png)
