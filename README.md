@@ -17,12 +17,14 @@ Procedure involved is explained below
 Then filled in the constructor parameters with the designated employee addresses.
 
 <kbd>![Command](Screenshots/deploy.png)
+<kbd>![Command](Screenshots/metamask-contract-deployment.png)
+<kbd>![Command](Screenshots/remix-deployed.png)
 <kbd>![Command](Screenshots/deployed.png)
 
 
 Metamask with localhost - with transaction
 <kbd>![Command](Screenshots/metamask.png)
-<kbd>![Command](Screenshots/metamask-contract-deployment.png)
+
 
 The transaction details were found in the Ganache app as well.
 <kbd>![Command](Screenshots/ganache-transaction.png)
