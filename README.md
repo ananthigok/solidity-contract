@@ -19,16 +19,20 @@ Then filled in the constructor parameters with the designated employee addresses
 <kbd>![Command](Screenshots/deploy.png)
 <kbd>![Command](Screenshots/deployed.png)
 
+
 Metamask with localhost - with transaction
 <kbd>![Command](Screenshots/metamask.png)
+<kbd>![Command](Screenshots/metamask-contract-deployment.png)
 
 The transaction details were found in the Ganache app as well.
 <kbd>![Command](Screenshots/ganache-transaction.png)
+
 <kbd>![Command](Screenshots/ganache-accounts.png)
 
 ## Deploy the contracts to a live Testnet
+
 MetaMask was pointed to the Kovan network and then the contract was deloyed again and did the transaction from Deposit method.
 <kbd>![Command](Screenshots/metamask-kovan.png)
 
-This transaction details were verified online in [kovan etherscan](https://kovan.etherscan.io/) website
+This transaction details were found online in [kovan etherscan](https://kovan.etherscan.io/) website
 <kbd>![Command](Screenshots/live-kovan-test-transaction.png)
