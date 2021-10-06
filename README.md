@@ -16,6 +16,7 @@ Procedure involved is explained below
  In the Deploy tab in Remix, deployed the contract to the local Ganache chain by connecting to Injected Web3 and ensuring MetaMask is pointed to localhost:8545.
 Then filled in the constructor parameters with the designated employee addresses.
 
+<kbd>![Command](Screenshots/solidity-contract-code.png)
 <kbd>![Command](Screenshots/deploy.png)
 <kbd>![Command](Screenshots/metamask-contract-deployment.png)
 <kbd>![Command](Screenshots/remix-deployed.png)
